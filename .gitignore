@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.continuity/decisions.json
+.continuity/*.backup
+.continuity/working-memory.json
+.continuity/unfinished-task.json
+.continuity/SESSION_NOTES.md
+SESSION_HANDOFF.md

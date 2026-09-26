@@ -1,0 +1,20 @@
+
+# Continuity
+SESSION_HANDOFF.md
+.continuity/*
+
+# Auto-regenerated AI instruction files — the Continuity extension rewrites these
+# in any workspace it activates against, including this fixture. setup-mcp.sh
+# strips them on every recording run, but the regenerator races, leaving them
+# in a constant D-status churn. Untracked here so the fixture stays sanitized.
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.cursorrules
+.github/copilot-instructions.md
+# Continuity decision memory — travels with the repo (runtime state stays ignored)
+!.continuity/decisions.jsonl
+!.continuity/decisions.json
+!.continuity/.gitattributes
+!.continuity/SESSION_NOTES.md
+!.continuity/INSTRUCTIONS.md

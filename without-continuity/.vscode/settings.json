@@ -1,0 +1,10 @@
+{
+  "continuity.quietOnboarding": true,
+  "continuity.firstRunSeedingEnabled": false,
+  "continuity.showDecisionNotifications": false,
+  "continuity.autoInject": false,
+  "continuity.autoDetectRelationships": false,
+  "continuity.autoLinkToCode": false,
+  "continuity.autoLogMode": "off",
+  "continuity.analytics.enabled": false
+}

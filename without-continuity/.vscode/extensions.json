@@ -1,0 +1,7 @@
+{
+  "// Instruction for reviewers": "This workspace intentionally has Continuity DISABLED so the 'without-continuity' demo is honest. The extension must be disabled per-workspace before opening — see demo-projects/peer-review/README.md. The unwantedRecommendations below is cosmetic; per-workspace disable is a VS Code UI action.",
+  "unwantedRecommendations": [
+    "hackerware.continuity-ultimate",
+    "hackerware.continuity-ultimate-dev"
+  ]
+}

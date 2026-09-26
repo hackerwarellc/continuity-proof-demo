@@ -1,0 +1,18 @@
+Copyright (c) 2026 Hackerware. All rights reserved.
+
+This repository and its contents (the "Demo") are proprietary to Hackerware.
+
+PERMITTED USE (demo only): You may clone, view, run locally, and modify the Demo
+solely to evaluate Continuity (https://getcontinuity.io) or to reproduce the
+with/without comparison described in README.md. You may share links to this
+repository.
+
+NOT PERMITTED without prior written permission from Hackerware: commercial use
+of the paydash-api sample code as a product or service; redistribution of the
+Demo as your own template or courseware; removal of this license; or any use
+that implies Hackerware endorsement.
+
+Continuity (VS Code extension, MCP server, CLI, and related services) is
+licensed separately under Continuity / Marketplace terms, not under this file.
+
+THE DEMO IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
